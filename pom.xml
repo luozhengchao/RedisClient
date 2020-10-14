@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<junit.version>3.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<eclipse.jface.version>3.3.0-I20070606-0010</eclipse.jface.version>
 		<jedis.version>2.7.2</jedis.version>
 		<slf4j.log4j.version>1.7.2</slf4j.log4j.version>
